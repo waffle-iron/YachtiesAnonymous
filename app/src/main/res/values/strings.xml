@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">YachtiesAnonymous</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="dlg_cancel">Cancel</string>
+    <string name="version_not_supported_dialog_title">Version not supported</string>
+    <string name="version_not_supported_dialog_message">The version installed is not supported any more. Press OK to open Play store and download a newer version.</string>
+    <string name="ask_perm_location">The application requires permission to use the GPS so that it can function properly</string>
+
+
+
+
+    <string name="db_boats">boats</string>
+    <string name="db_buoys">buoys</string>
+    <string name="db_events">Events</string>
+    <string name="db_users">Users</string>
+    <string name="db_lastbuoyid">lastBuoyId</string>
+    <string name="db_compatible_version">CompatibleVersion</string>
+    <string name="db_boattypes">BoatTypes</string>
+
+</resources>
